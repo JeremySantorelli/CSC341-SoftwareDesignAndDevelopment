@@ -1,0 +1,10 @@
+daniel: 120 Recine St, Waukesha, WI 54321
+joe: 100 n east ave, waukesha wi 53186
+mike: w12345 grayland dr, menomonee falls, wi 53051
+mary: 15967 w lisbon rd, brookfield, wi 53005
+beth: 100 n east ave, waukesha, wi 53186
+jean:1440 115th St, West Allis, wi 53412
+john: West 13524 St., Brookfield, WI 53005
+nancy: 2345 n 17th st., milwaukee, wi 53241
+holly: 18567 us highway 19 n, clearwater, fl 34512
+charlie: 1234 lakeshore dr, racine, wi 53402
